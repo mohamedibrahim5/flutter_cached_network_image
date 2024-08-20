@@ -14,7 +14,7 @@ environment:
 
 dependencies:
   cached_network_image_platform_interface: ^4.1.1
-  cached_network_image:
+  cached_network_image_web:
     git:
       url: https://github.com/mohamedibrahim5/flutter_cached_network_image
       path: cached_network_image_web  
